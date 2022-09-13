@@ -1,0 +1,17 @@
+{
+    "Name": "[CP] StarAmys Natural Patterned Wallpapers",
+    "Author": "StarAmy",
+    "Version": "1.0.0",
+    "Description": "A pack of wallpapers for custom wallpaper framework.",
+    "UniqueID": "StarAmy.NaturalPatternedWallpapers",
+    "MinimumApiVersion": "3.13.0",
+    "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+	"Dependencies": [
+		{
+			"UniqueID": "aedenthorn.CustomWallpaperFramework",
+			"IsRequired": true
+		}
+	]
+ }

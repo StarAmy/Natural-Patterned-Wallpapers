@@ -1,0 +1,227 @@
+{
+	"Format": "1.25.0",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/AdditionalWallpaperFlooring",
+			"Entries": {
+				"StarAmy.StarAmy.Vines_Wallpaper": {
+					"ID": "StarAmy.Vines_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Vines_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Flytrap_Wallpaper": {
+					"ID": "StarAmy.Flytrap_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Flytrap_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Seaweed_Wallpaper": {
+					"ID": "StarAmy.Seaweed_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Seaweed_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Coral_Wallpaper": {
+					"ID": "StarAmy.Coral_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Coral_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Neon_Coral_Wallpaper": {
+					"ID": "StarAmy.Neon_Coral_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Neon_Coral_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Sunflower_Wallpaper": {
+					"ID": "StarAmy.Sunflower_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Sunflower_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Mushroom_Wallpaper": {
+					"ID": "StarAmy.Mushroom_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Mushroom_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.StarAmy.Flower_Wallpaper": {
+					"ID": "StarAmy.Flower_Wallpaper",
+					"Texture": "StarAmy.StarAmy.Flower_Wallpaper/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Vines_Wallpaper/Wallpaper",
+			"FromFile": "assets/Vines_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Vines_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Vines_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Flytrap_Wallpaper/Wallpaper",
+			"FromFile": "assets/Flytrap_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Flytrap_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Flytrap_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Seaweed_Wallpaper/Wallpaper",
+			"FromFile": "assets/Seaweed_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Seaweed_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Seaweed_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Coral_Wallpaper/Wallpaper",
+			"FromFile": "assets/Coral_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Coral_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Coral_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Neon_Coral_Wallpaper/Wallpaper",
+			"FromFile": "assets/Neon_Coral_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Neon_Coral_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Neon_Coral_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Sunflower_Wallpaper/Wallpaper",
+			"FromFile": "assets/Sunflower_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Sunflower_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Sunflower_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Mushroom_Wallpaper/Wallpaper",
+			"FromFile": "assets/Mushroom_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Mushroom_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Mushroom_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Flower_Wallpaper/Wallpaper",
+			"FromFile": "assets/Flower_Wallpaper.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.StarAmy.Flower_Wallpaper/WallpaperIcon",
+			"FromFile": "assets/Flower_Wallpaper.png"
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.StarAmy.Vines_Wallpaper": {
+					"id": "StarAmy.StarAmy.Vines_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Vines_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.StarAmy.Flytrap_Wallpaper": {
+					"id": "StarAmy.StarAmy.Flytrap_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Flytrap_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.StarAmy.Seaweed_Wallpaper": {
+					"id": "StarAmy.StarAmy.Seaweed_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Seaweed_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.StarAmy.Coral_Wallpaper": {
+					"id": "StarAmy.StarAmy.Coral_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Coral_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.StarAmy.Neon_Coral_Wallpaper": {
+					"id": "StarAmy.StarAmy.Neon_Coral_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Neon_Coral_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.StarAmy.Sunflower_Wallpaper": {
+					"id": "StarAmy.StarAmy.Sunflower_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Sunflower_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.StarAmy.Mushroom_Wallpaper": {
+					"id": "StarAmy.StarAmy.Mushroom_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Mushroom_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.StarAmy.Flower_Wallpaper": {
+					"id": "StarAmy.StarAmy.Flower_Wallpaper",
+					"texturePath": "StarAmy.StarAmy.Flower_Wallpaper/Wallpaper",
+					"width": 1,
+				},
+			}
+		},
+	]
+}
